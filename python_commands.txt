@@ -1,0 +1,6 @@
+# activate virtual environment
+source fraud-detection-venv/Scripts/activate
+
+# install dependencies from requirements.txt
+source fraud-detection-venv/Scripts/activate
+pip install -r requirements.txt
